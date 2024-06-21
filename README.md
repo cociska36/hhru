@@ -16,6 +16,7 @@
    - Установите необходимые зависимости:
      ```bash
      pip install -r requirements.txt
+     pip install psycopg2
      ```
 
 3. **Создание таблиц в базе данных**:
